@@ -12,7 +12,7 @@ white-space:pre-wrap !important;
 }
 
 .notion-page__icon {
-    align-items: start;
+    align-items: start !important;
 }
 
 .notion-page__icon .notion-icon {
